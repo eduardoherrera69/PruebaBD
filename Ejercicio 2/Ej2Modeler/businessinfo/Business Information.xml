@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BusinessInfoDesign class="oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign" name="Business Information" id="ADE8C70E-F6E7-E374-DFC7-CD6555A7F9C1">
+<createdBy>app_movil</createdBy>
+<createdTime>2020-07-11 02:12:05 UTC</createdTime>
+<ownerDesignName>Ej2Modeler</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</BusinessInfoDesign>

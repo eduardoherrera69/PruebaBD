@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="2D73AD6F-EFEC-F6A7-9C42-D26F8BC1C5D6">
+<createdBy>app_movil</createdBy>
+<createdTime>2020-07-11 02:12:04 UTC</createdTime>
+<ownerDesignName>Ej2Modeler</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

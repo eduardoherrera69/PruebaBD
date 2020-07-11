@@ -1,0 +1,85 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="C276BBA0-635A-5F45-77AD-04429E0D9A3A" name="EmpleadoEj2">
+<createdBy>app_movil</createdBy>
+<createdTime>2020-07-11 02:15:39 UTC</createdTime>
+<ownerDesignName>Ej2Modeler</ownerDesignName>
+<ordsAlias>table_1</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="idEmpleado" id="9C2369F0-0D7D-B19F-E788-2CF24D2CAFE2">
+<createdBy>app_movil</createdBy>
+<createdTime>2020-07-11 02:18:19 UTC</createdTime>
+<ownerDesignName>Ej2Modeler</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="nombre" id="6F325E32-3753-E15D-8274-83107D059CCA">
+<createdBy>app_movil</createdBy>
+<createdTime>2020-07-11 02:18:19 UTC</createdTime>
+<ownerDesignName>Ej2Modeler</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="apellido" id="AE59A594-60E3-1D45-43BE-D7CB00528E81">
+<createdBy>app_movil</createdBy>
+<createdTime>2020-07-11 02:18:19 UTC</createdTime>
+<ownerDesignName>Ej2Modeler</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="direccion" id="84B9B3EF-43DA-BFF9-96AB-0B2B79EEA7DF">
+<createdBy>app_movil</createdBy>
+<createdTime>2020-07-11 02:18:19 UTC</createdTime>
+<ownerDesignName>Ej2Modeler</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="telefono" id="BE635136-4311-9A12-E724-BBF4FFA2D142">
+<createdBy>app_movil</createdBy>
+<createdTime>2020-07-11 02:18:19 UTC</createdTime>
+<ownerDesignName>Ej2Modeler</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>A3A3C77D-0366-9768-FF89-1C25E56881C8</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="idDepartamento" id="271F5FA8-CDE1-9F4F-9D5B-2904A8DEBA5F">
+<createdBy>app_movil</createdBy>
+<createdTime>2020-07-11 02:18:19 UTC</createdTime>
+<ownerDesignName>Ej2Modeler</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="51A89C2A-4369-C29D-BB71-0BA39944AE1A" name="Empleado_PK">
+<createdBy>app_movil</createdBy>
+<createdTime>2020-07-11 02:18:19 UTC</createdTime>
+<ownerDesignName>Ej2Modeler</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9C2369F0-0D7D-B19F-E788-2CF24D2CAFE2"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
